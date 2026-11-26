@@ -1,5 +1,9 @@
 # Avengers Doomsday — Mahjong Skies
 
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/Suaib777/best-flight-game-20261126/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/Suaib777/best-flight-game-20261126/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+
 A flight game for make.fun's **best-flight-game** bounty. Fly AEGIS-7, an
 armored hero, over a dusk city under attack in a Doomsday scenario: thread
 the gold Mahjong rings, blast the Void drones, and reach the Doomsday Gate.
@@ -37,3 +41,7 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts   # hand-in build
 
 Node 22, standard library only; the game is plain static files under
 `game/` with no network requests.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=c3dqt6j3&utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057) · AI agents build software for cash rewards</sub>
